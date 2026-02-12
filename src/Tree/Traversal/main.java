@@ -18,6 +18,6 @@ public class main {
         tree.postorder(tree.root);
 
         System.out.print("\nPostorder Traversal: ");
-        tree.postorder(tree.root);
+        tree.preorder(tree.root);
     }
 }

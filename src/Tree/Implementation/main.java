@@ -11,6 +11,9 @@ public class main {
         tree.root.left.left = new Node(4);
         tree.root.left.right = new Node(5);
 
+
+
+
         System.out.println("Binary Tree Created Successfully");
     }
 }
